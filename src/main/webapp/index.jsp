@@ -24,7 +24,7 @@ src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></scrip
     <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
       <header class="masthead mb-auto">
         <div class="inner">
-          <h3 class="masthead-brand">Chetan Talwar</h3>
+          <h3 class="masthead-brand">Shoyeb Shaikh</h3>
 <!--          <nav class="nav nav-masthead justify-content-center">
             <a class="nav-link active" href="#">Home</a>
             <a class="nav-link" href="https://www.linkedin.com/in/thechetantalwar/">Contact</a>
@@ -33,7 +33,7 @@ src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></scrip
       </header>
 
       <main role="main" class="inner cover">
-        <h1 class="cover-heading">Thanks a lot for attending the workshop.</h1>
+        <h1 class="cover-heading">Deployed my first Webapp using Jenkins and Docker.</h1>
         <p class="lead">In case of any issues or queries, you can reach out to me at <a href="https://www.linkedin.com/in/thechetantalwar/">Linkedin</a> or you can email your queries at <a href="mailto:chetan.talwar@thinknyx.com">chetan.talwar@thinknyx.com</a>/<a href="mailto:chetan.talwar@gmail.com">chetan.talwar@gmail.com</a></p>
         <p class="lead">
           <a href="https://thinknyx.com" class="btn btn-lg btn-secondary">Thinknxy Technologies</a>
